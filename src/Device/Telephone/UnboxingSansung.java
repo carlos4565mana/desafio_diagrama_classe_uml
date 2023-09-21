@@ -2,7 +2,7 @@ package Device.Telephone;
 
 public class UnboxingSansung implements Telephone {
   @Override
-	public void turnOn() {
+	public void Connect() {
 		System.out.println("Turn on the phone");
 	}
 
