@@ -1,18 +1,10 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+##Desafio Diagrama de Classes UML 
 
-## Folder Structure
+Feito atráves do bootcamp Desenvolvimento Java com Cloud AWS - DIO, instrutor Gleyson Sampaio.
 
-The workspace contains two folders by default, where:
+O projeto foi realizando com diagrama UML usando a ideia do Iphone foi lançando em 2007 Steven Jobs
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+e também projeto Iphone utilizando a Interface.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Diagramas de Classe UML Exemplo](https://github.com/carlos4565mana/desafio_diagrama_classe_uml/assets/92988568/2e388782-6dca-4cca-ba17-726848e36112)
