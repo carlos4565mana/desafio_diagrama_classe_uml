@@ -4,7 +4,7 @@ import Device.Browser.BrowserInternet;
 import Device.Music.PlayMusic;
 import Device.Telephone.Telephone;
 
-public class EquipamentoIphone implements PlayMusic, BrowserInternet, Telephone {
+public class IphoneDevice implements PlayMusic, BrowserInternet, Telephone {
 
   @Override
   public void play() {
